@@ -1,3 +1,5 @@
+'use strict';
+
 // generated on 2018-01-12 using generator-webapp 3.0.1
 const gulp = require('gulp');
 const gulpLoadPlugins = require('gulp-load-plugins');
